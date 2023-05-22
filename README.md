@@ -39,7 +39,7 @@ git merge "branch a receber merg" :
 	atualiza a branch atualmente ativa
 
 
-## ANOTAÇÕES FEITAS:
+## OUTRAS ANOTAÇÕES :
 * Commit: em resumo, o commit é uma forma de registrar e documentar as alterações feitas em um projeto, fornecendo um ponto de referência no histórico do repositório;
 
 * Branch: uma ramificação independente do desenvolvimento de um projeto;
