@@ -8,34 +8,34 @@ Criação de repositório usando git, para capacitação do Cimatec JR
 
 ## ANOTAÇÕES:
 
-git init
+git init:
 	inicializa um novo repositório
 
-git add .
+git add . :
 	adiciona os arquivos atuais ao próximo commit
 
-git status
+git status :
 	verifica o status atual dos repositórios git
 
-git commit -m "mensagem do commit"
+git commit -m "mensagem do commit" :
 	cria um novo commit com uma mensagem
 
-git push
+git push :
 	envia as atualizações para a nuvem na branch atualmente ativa
 
-git branch
+git branch :
 	permite listar e ver qual branch está ativa atalmente
 
-git checkout nome-da-branch
+git checkout nome-da-branch :
 	permite mudar para uma nova branch
 
-git checkout -b "nome da branch de origem" "nome da nova branch"
+git checkout -b "nome da branch de origem" "nome da nova branch" :
 	permite mudar e criar uma nova branch com base em outra 
 
-git merge "branch a receber merg"
+git merge "branch a receber merg" :
 	permite fazer o merge da branch ativa atualmente com outra branch
 
- git pull
+ git pull :
 	atualiza a branch atualmente ativa
 
 
