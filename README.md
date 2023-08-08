@@ -8,10 +8,15 @@ Criação de repositório usando git, para capacitação do Cimatec JR
 
 ## Passo a passo:
 git init
+
 git add .
+
 git status
+
 git commit -m "first commit"
+
 git remote add origin link
+
 git push --set-upstream origin master
 
 
