@@ -6,6 +6,17 @@ Criação de repositório usando git, para capacitação do Cimatec JR
 * Outra branch feita para incluir o sistema de login (user, email, senha);
 * 3 imgs foram add ao repositório + arquivo pdf(nennhum dado dentro dele) (todas as branchs possuem isso).
 
+## Passo a passo:
+git init
+git add .
+git status
+git commit -m "first commit"
+git remote add origin link
+git push --set-upstream origin master
+
+
+
+
 ## ANOTAÇÕES:
 
 git init:
